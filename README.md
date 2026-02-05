@@ -89,7 +89,7 @@ Steps included:
 - Segmented customers into distinct groups:
   - **Cluster 1:** High income, high spending – premium customers.
   - **Cluster 2:** Low income, low spending – discount seekers.
-  - (Add all your observed segments here)
+  
 
 **Business recommendations:**
 
