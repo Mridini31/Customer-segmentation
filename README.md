@@ -37,15 +37,14 @@ This project performs **customer segmentation** using K-Means clustering, Hierar
 
 ## 📊 Dataset
 
-- **Dataset:** Mall Customer Segmentation Data (or specify your dataset)
-- **Source:** [Kaggle link or dataset source if public]
+- **Dataset:** Mall Customer Segmentation Data
 - **Features used:**
   - CustomerID
   - Gender
   - Age
   - Annual Income
   - Spending Score
-  - (Add other relevant features)
+    
 
 ---
 
