@@ -1,15 +1,20 @@
-# Customer Segmentation using K-Means, Hierarchical Clustering, and RFM Analysis
+# E-commerce Customer Segmentation & Marketing Insights Tool
 
 ## 📑 About the Project
 
-This project is a customer analytics tool designed for
-e-commerce platforms. It uses machine learning clustering
-techniques to segment customers based on purchasing behavior.
+This project is a data-driven customer analytics tool designed for
+e-commerce platforms. It applies machine learning clustering techniques
+to segment customers based on purchasing behavior and transaction patterns.
 
-The system identifies groups such as high-value customers,
-frequent buyers, and at-risk customers, helping merchants
-understand their audience and design targeted marketing
-strategies.
+The goal of the system is to help online merchants better understand their
+customers and make data-informed marketing decisions. By identifying
+behavioral segments such as high-value customers, frequent buyers, and
+at-risk customers, businesses can personalize marketing strategies,
+improve retention, and optimize sales campaigns.
+
+The project demonstrates how machine learning and data analytics can
+support SaaS-based e-commerce platforms by providing actionable insights
+into customer behavior.
 
 ---
 
