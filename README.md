@@ -2,7 +2,14 @@
 
 ## 📑 About the Project
 
-This project performs **customer segmentation** using K-Means clustering, Hierarchical clustering, and RFM (Recency, Frequency, Monetary) analysis. The objective is to group customers based on their purchasing behaviour to aid targeted marketing strategies and personalised offers.
+This project is a customer analytics tool designed for
+e-commerce platforms. It uses machine learning clustering
+techniques to segment customers based on purchasing behavior.
+
+The system identifies groups such as high-value customers,
+frequent buyers, and at-risk customers, helping merchants
+understand their audience and design targeted marketing
+strategies.
 
 ---
 
@@ -20,6 +27,15 @@ This project performs **customer segmentation** using K-Means clustering, Hierar
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
+
+---
+
+## 💻 Features
+
+- Customer segmentation using K-Means clustering
+- Visualization of customer behavior patterns
+- Identification of high-value and at-risk customers
+- Data-driven insights for targeted marketing
 
 ---
 
@@ -96,6 +112,12 @@ Steps included:
 - Offer loyalty programs to premium customers.
 - Design targeted campaigns for medium-tier clusters.
 - Provide discounts to convert low spending groups.
+
+**Potential Integration:**
+
+This tool could be integrated with e-commerce platforms
+such as Shopify to analyze merchant customer data and
+generate actionable marketing insights.
 
 ---
 
